@@ -132,6 +132,11 @@ BMI 지수는 아쉽게도 전혀 상관관계가 없었다. 거짓
 ![image](https://github.com/DongWooKim4343/Linear-Regression-based-Pull-up-Analysis/assets/106728608/59fdff71-ca88-4922-9f5d-63053d7edceb)
 
 
+키, 몸무게에 관련 자료들을 찾아보면 많은 자료에서 BMI는 크게 중요하지 않다고 나온다.     
+
+       
+
+
 ![image](https://github.com/DongWooKim4343/Linear-Regression-based-Pull-up-Analysis/assets/106728608/0f00688c-a869-4706-b43c-b805f4bcfd72)
 
 스포츠 관련 인물들의 키와 몸무게는 나무위키를 참고하였습니다.  
